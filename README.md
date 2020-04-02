@@ -13,5 +13,6 @@
 
 
 *CARA EKSEKUSI*
-1. cd spoonbot (enter)
-2. python spoonbot.py (enter)
+1. git clone https://github.com/Armytages/Spoonbot
+2. cd spoonbot (enter)
+3. python spoonbot.py (enter)
